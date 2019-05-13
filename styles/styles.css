@@ -1,0 +1,18 @@
+.rectangle {
+    width: 100%;
+    padding-top: 100%; 
+    position: relative;
+}
+
+.tile-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+#description-visibility, #offers-visibility {
+    color: #42aaf4;
+    cursor: pointer;
+}
